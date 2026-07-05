@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-30T14:24:18 HADT" name="Default suite" finished-at="2026-06-30T14:26:24 HADT" duration-ms="126204">
+    <groups>
+    </groups>
+    <test started-at="2026-06-30T14:24:18 HADT" name="Default test" finished-at="2026-06-30T14:26:24 HADT" duration-ms="126204">
+      <class name="mytestcases.myTestCase">
+        <test-method is-config="true" signature="BFT()[pri:0, instance:mytestcases.myTestCase@13518f37]" started-at="2026-06-30T14:24:18 HADT" name="BFT" finished-at="2026-06-30T14:24:22 HADT" duration-ms="4279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFT -->
+        <test-method signature="FTSignUp()[pri:0, instance:mytestcases.myTestCase@13518f37]" started-at="2026-06-30T14:24:22 HADT" name="FTSignUp" finished-at="2026-06-30T14:24:31 HADT" duration-ms="8968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FTSignUp -->
+        <test-method signature="logout()[pri:1, instance:mytestcases.myTestCase@13518f37]" started-at="2026-06-30T14:24:31 HADT" name="logout" finished-at="2026-06-30T14:24:32 HADT" duration-ms="1228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login()[pri:2, instance:mytestcases.myTestCase@13518f37]" started-at="2026-06-30T14:24:32 HADT" name="login" finished-at="2026-06-30T14:24:39 HADT" duration-ms="6085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="AddAllItems()[pri:3, instance:mytestcases.myTestCase@13518f37]" started-at="2026-06-30T14:24:39 HADT" name="AddAllItems" finished-at="2026-06-30T14:26:24 HADT" duration-ms="105138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllItems -->
+        <test-method signature="PrintCartItemsNames()[pri:4, instance:mytestcases.myTestCase@13518f37]" started-at="2026-06-30T14:26:24 HADT" name="PrintCartItemsNames" finished-at="2026-06-30T14:26:24 HADT" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintCartItemsNames -->
+      </class> <!-- mytestcases.myTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
